@@ -139,7 +139,7 @@ python smuggler.py README.md foo.svg -s templates\svgs\cartman.svg
 usage:
     :: HTML Smuggler - The sleazy underbelly of your friendly HTML
     Simple script that takes file on input and produces templated smuggling output.
-    Mariusz Banach / mgeeky '22-23, <mb@binary-offensive.com>
+
 
 Usage: smuggler.py [options] <infile>
 
